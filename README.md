@@ -2,7 +2,7 @@
 
 ### Deploying to Vercel
 
-added the config in now.json and push up the build folder after a local build
+added the config in vercel.json and push up the build folder after a local build
 
 # Razzle x React Router
 
