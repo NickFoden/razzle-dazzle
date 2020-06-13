@@ -35,3 +35,5 @@ yarn start
 ## Idea behind the example
 
 This is a basic, bare-bones example of how to use Razzle and React Router.
+
+bump
