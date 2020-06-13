@@ -1,3 +1,9 @@
+## Taking Razzle for a spin
+
+### Deploying to Vercel
+
+added the config in now.json and push up the build folder after a local build
+
 # Razzle x React Router
 
 ## How to use
